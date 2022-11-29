@@ -8,7 +8,7 @@ __👋 Hi, I’m Ethan Park__
 
 __Interests__
 - Machine Learning
-- Quantitive Analysis
+- Quantitative Analysis
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
