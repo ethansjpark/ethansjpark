@@ -7,6 +7,7 @@ __👋 Hi, I’m Ethan Park__
 
 
 __Interests__
+- Web Development
 - Machine Learning
 - Quantitative Analysis
 
