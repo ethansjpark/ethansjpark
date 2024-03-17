@@ -7,9 +7,10 @@ __👋 Hi, I’m Ethan Park__
 
 
 __Interests__
-- Web Development
 - Machine Learning
-- Quantitative Analysis
+- Natural Language Processing
+- Autonomous Driving
+- Web Development
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
