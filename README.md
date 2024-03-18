@@ -1,5 +1,5 @@
-__👋 Hi, I’m Ethan Park__
----   
+__👋 Hi, Ethan Here__
+---  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
 ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=FFF&style=flat-square)
