@@ -7,10 +7,10 @@ __👋 Hi, Ethan Here__
 
 
 __Interests__
-- Machine Learning
-- Natural Language Processing
 - Autonomous Driving
+- Machine Learning
 - Web Development
+- Natural Language Processing
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
