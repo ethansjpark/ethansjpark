@@ -6,7 +6,7 @@ __👋 Hi, Ethan Here__
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 __Recent Project__
-[MEDi](https://github.com/2nd-Company/MEDi)
+- [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Interests__
 - Autonomous Driving
