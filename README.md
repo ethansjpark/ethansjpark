@@ -5,6 +5,9 @@ __👋 Hi, Ethan Here__
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
+__Experience__
+- Incoming Software Development Engineer at [Amazon](https://www.amazon.com/)
+
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
