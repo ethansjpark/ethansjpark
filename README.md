@@ -10,9 +10,9 @@ __Recent Project__
 
 __Interests__
 - Autonomous Driving
-- Machine Learning
+- Deep Learning
 - Web Development
-- Natural Language Processing
+- Large Language Model
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
