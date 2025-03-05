@@ -1,8 +1,8 @@
 __👋 Hi, Ethan Here__
 ---  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFF&style=flat-square)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=FFF&style=flat-square)
+![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
+![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 __Experience__
