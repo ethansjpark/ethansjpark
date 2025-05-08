@@ -5,7 +5,7 @@ __👋 Hi, Ethan Here__
 ![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
 
 __Experience__
-- Incoming Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
+- Incoming Software Development Engineer Intern at [Amazon Web Services](https://aws.amazon.com/)
 
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
