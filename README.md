@@ -12,8 +12,9 @@ __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Interests__
-- Autonomous Driving
+- Computer Vision 
 - Deep Learning
+- Text-to-speech
 - Web Development
 
 <!---
