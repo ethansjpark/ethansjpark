@@ -6,7 +6,7 @@ __👋 Hi, Ethan here__
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 
 __Experience__
-- Incoming Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
+- Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
