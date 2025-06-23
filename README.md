@@ -12,9 +12,9 @@ __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Interests__
+- Early Stage Investing
 - Computer Vision
 - Robotics / Integration
-- Deep Learning
 - Web Development
 - Computational Biology
 
