@@ -12,10 +12,11 @@ __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Interests__
-- Computer Vision 
+- Computer Vision
+- Robotics / Integration
 - Deep Learning
-- Text-to-speech
 - Web Development
+- Computational Biology
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
