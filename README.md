@@ -1,4 +1,4 @@
-__👋 Hi, Ethan here__
+__👋 Hi, this is Ethan__
 ---  
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
