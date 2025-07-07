@@ -17,8 +17,8 @@ __Recent Project__
 __Interests__
 - Early Stage Investing
 - Computer Vision
+- Fintech
 - Robotics / Integration
-- Web Development
 - Computational Biology
 
 <!---
