@@ -2,6 +2,7 @@ __👋 Hi, this is Ethan__
 ---  
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-black?logo=python&logoColor=FFF&style=flat-square)
+![TypeScript](https://shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
