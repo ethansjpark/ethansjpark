@@ -11,6 +11,9 @@ __👋 Hi, this is Ethan__
 __Experience__
 - Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
+__Building__
+- [Polymic](https://github.com/polymic)
+
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
