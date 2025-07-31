@@ -19,10 +19,10 @@ __Recent Project__
 
 __Interests__
 - Early Stage Investing
-- Computer Vision
+- HFT
 - Fintech
+- Computer Vision
 - Robotics / Integration
-- Computational Biology
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
