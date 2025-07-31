@@ -13,7 +13,6 @@ __Experience__
 
 __Building__
 - [Polymic](https://github.com/polymic)
-- [Stealth Project](https://google.com/)
 
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
