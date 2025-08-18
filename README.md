@@ -8,8 +8,8 @@ __👋 Hi, this is Ethan__
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
 
-__Experience__
--  Current Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
+__Past Experience__
+-  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
 __Building__
 - [Polymic](https://github.com/polymic)
