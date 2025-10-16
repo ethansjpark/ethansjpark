@@ -18,11 +18,11 @@ __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 __Interests__
-- Early Stage Investing
-- HFT
-- Fintech
 - Computer Vision
+- Reinforcement Learning
 - Robotics / Integration
+- Early Stage Investing
+- Fintech
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
