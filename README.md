@@ -7,23 +7,19 @@ __👋 Hi, this is Ethan__
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
+I'm interested in Computer Vision, Deep Reinforcement Learning, Agentic Systems, Robotics, and Early-Stage Investing.
 
-__Past Experience__
+I'm currently a junior at Emory University studying CS and Math. 
+Previously, I was a 
 -  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
-__Currently__
+Now, I am  
 - researching [pathfinder](https://github.com/ethansjpark/pathfinder-vision-robustness)
 - building [Polymic](https://github.com/polymic)
 
-__Recent Project__
+I was recently working on
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
-__Interests__
-- Computer Vision
-- Reinforcement Learning
-- Robotics / Integration
-- Early Stage Investing
-- Fintech
 
 <!---
 ethansjpark/ethansjpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
