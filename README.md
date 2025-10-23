@@ -11,8 +11,9 @@ __👋 Hi, this is Ethan__
 __Past Experience__
 -  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
-__Building__
-- [Polymic](https://github.com/polymic)
+__Currently__
+- researching [pathfinder](https://github.com/ethansjpark/pathfinder-vision-robustness)
+- building [Polymic](https://github.com/polymic)
 
 __Recent Project__
 - [MEDi](https://github.com/2nd-Company/MEDi)
