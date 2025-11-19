@@ -14,7 +14,7 @@ Previously, I was a
 -  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
 Now, I am  
-- researching [pathfinder](https://github.com/ethansjpark/pathfinder-vision-robustness)
+- researching [freq-nav-sim2real](https://github.com/ethansjpark/freq-nav-sim2real)
 - building [Polymic](https://github.com/polymic)
 
 I was recently working on
