@@ -7,14 +7,13 @@ __👋 Hi, this is Ethan__
 ![C](https://shields.io/badge/C-black?logo=c&logoColor=fff&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-I'm interested in Computer Vision, Deep Reinforcement Learning, Robotics, Fintech, and Early-Stage Investing.
+I'm interested in Computer Vision, Physical AI, Fintech, and Early-Stage Investing.
 
 I'm currently a junior at Emory University studying CS and Math. 
 Previously, I was a 
 -  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
 Now, I am  
-- researching [freq-nav-sim2real](https://github.com/ethansjpark/freq-nav-sim2real)
 - building [Polymic](https://github.com/polymic)
 
 I was recently working on
