@@ -9,7 +9,7 @@ __👋 Hi, this is Ethan__
 
 I'm interested in vision-language-action, vision language model, multimodal shifts, and early-stage investing.
 
-I'm currently a junior at Emory University studying CS and Math. 
+I'm currently a junior at Emory University studying CS and Math. Also, I am an incoming Software Engineer Intern at [Google](https://www.google.com/).
 Previously, I was a 
 -  Software Development Engineer Intern at [AWS](https://aws.amazon.com/)
 
