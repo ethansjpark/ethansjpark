@@ -16,7 +16,7 @@ Previously, I was a
 Now, I am  
 - building [Polymic](https://github.com/polymic)
 
-I was recently working on
+I was working on
 - [MEDi](https://github.com/2nd-Company/MEDi)
 
 
