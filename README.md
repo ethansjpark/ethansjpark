@@ -7,7 +7,7 @@ __👋 Hi, this is Ethan__
 ![JavaScript](https://shields.io/badge/JavaScript-black?logo=JavaScript&logoColor=FFF&style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-black.svg?style=flat-square&logo=amazon-aws&logoColor=FFF)
 
-I'm interested in vision-language-action, world models, vision language model, multimodal shifts, and early-stage investing.
+I'm interested in vision language model, world models, multimodal systems, agents, and early-stage investing.
 
 I'm currently a junior at Emory University studying CS and Math. I'm also an incoming Software Engineering Intern at [Google](https://www.google.com/).
 Previously, I was a 
